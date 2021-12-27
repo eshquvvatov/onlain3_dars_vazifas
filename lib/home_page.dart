@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
         height: double.infinity,
         width: double.infinity,
         alignment: Alignment.center,
-        //color:Colors.red ,
+        color:Colors.red ,
       ),
     );
   }
